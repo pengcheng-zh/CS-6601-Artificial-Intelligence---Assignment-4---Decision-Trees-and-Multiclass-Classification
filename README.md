@@ -1,5 +1,7 @@
 # CS 6601: Artificial Intelligence - Assignment 4 - Decision Trees and Multiclass-Classification
 
+# Got 100 points, if you need, contact me with email: zhangpch666@163.com
+
 ## Setup
 Clone this repository:
 
